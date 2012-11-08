@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Geekpedia - Tutorials</title>
+<link>http://www.geekpedia.com/TutorialArchive.html</link>
+<description>Latest programming tutorials that are available at Geekpedia.com.</description>
+<copyright>Copyright 2004 - 2012 Geekpedia.com. All rights reserved.</copyright>
+<language>en-us</language>
+<generator>Geekpedia RSS Generator</generator>
+<image><url>http://www.geekpedia.com/Graphics/GeekpediaLogo.png</url><title>Geekpedia - Tutorials</title><link>http://www.geekpedia.com/TutorialArchive.html</link></image>
+<item>
+<title>How to Convert Cursor into While Loop In SqlServer</title>
+<description>This article is about how we can change the cursor in the while loop in SQL Server. It&#039;s very useful in improving the performance of stored procedures.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.geekpedia.com/tutorial292_How-to-Convert-Cursor-into-While-Loop-In-SqlServer.html&quot;&gt;Read This SQL Tutorial&lt;/a&gt;</description>
+<link>http://www.geekpedia.com/tutorial292_How-to-Convert-Cursor-into-While-Loop-In-SqlServer.html</link>
+<guid>http://www.geekpedia.com/tutorial292_How-to-Convert-Cursor-into-While-Loop-In-SqlServer.html</guid>
+<pubDate>Sun, 27 Jun 2010 22:36:06 -0500</pubDate>
+</item>
+<item>
+<title>Working With Collections In Java - Part 1</title>
+<description>A look at the Collections Framework of Java which provides a large set of popular data structures such as stacks, linked lists and dynamic arrays.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.geekpedia.com/tutorial291_Working-With-Collections-In-Java-Part-1.html&quot;&gt;Read This Java Tutorial&lt;/a&gt;</description>
+<link>http://www.geekpedia.com/tutorial291_Working-With-Collections-In-Java-Part-1.html</link>
+<guid>http://www.geekpedia.com/tutorial291_Working-With-Collections-In-Java-Part-1.html</guid>
+<pubDate>Fri, 01 Aug 2008 22:04:45 -0500</pubDate>
+</item>
+<item>
+<title>Quicksort in Java</title>
+<description>A quick intro to the Quicksort algorithm in Java, showing an efficient (if not optimal) way to sort.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.geekpedia.com/tutorial290_Quicksort-in-Java.html&quot;&gt;Read This Java Tutorial&lt;/a&gt;</description>
+<link>http://www.geekpedia.com/tutorial290_Quicksort-in-Java.html</link>
+<guid>http://www.geekpedia.com/tutorial290_Quicksort-in-Java.html</guid>
+<pubDate>Mon, 07 Jul 2008 19:28:29 -0500</pubDate>
+</item>
+<item>
+<title>Multithreading Fundamentals in Java</title>
+<description>This tutorial covers how to create and manage threads in Java&#039;s multithreaded environment. It also explains the part that the Runnable interface plays in having classes run inside threads.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.geekpedia.com/tutorial289_Multithreading-Fundamentals-in-Java.html&quot;&gt;Read This Java Tutorial&lt;/a&gt;</description>
+<link>http://www.geekpedia.com/tutorial289_Multithreading-Fundamentals-in-Java.html</link>
+<guid>http://www.geekpedia.com/tutorial289_Multithreading-Fundamentals-in-Java.html</guid>
+<pubDate>Sat, 03 May 2008 18:54:15 -0500</pubDate>
+</item>
+<item>
+<title>Selection Sort Algorithm in Java</title>
+<description>The selection sort algorithm is slightly better performing than bubble sort, and so we&#039;re going to explain how it works and implement it in Java.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.geekpedia.com/tutorial288_Selection-Sort-Algorithm-in-Java.html&quot;&gt;Read This Java Tutorial&lt;/a&gt;</description>
+<link>http://www.geekpedia.com/tutorial288_Selection-Sort-Algorithm-in-Java.html</link>
+<guid>http://www.geekpedia.com/tutorial288_Selection-Sort-Algorithm-in-Java.html</guid>
+<pubDate>Wed, 16 Apr 2008 21:54:51 -0500</pubDate>
+</item>
+<item>
+<title>Bubble Sort Algorithm in Java</title>
+<description>The bubble sort is notoriously slow, but it&#039;s conceptually the simplest of the sorting algorithms and for that reason is a good beginning for our exploration of sorting techniques.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.geekpedia.com/tutorial272_Bubble-Sort-Algorithm-in-Java.html&quot;&gt;Read This Java Tutorial&lt;/a&gt;</description>
+<link>http://www.geekpedia.com/tutorial272_Bubble-Sort-Algorithm-in-Java.html</link>
+<guid>http://www.geekpedia.com/tutorial272_Bubble-Sort-Algorithm-in-Java.html</guid>
+<pubDate>Sun, 02 Mar 2008 20:37:24 -0600</pubDate>
+</item>
+<item>
+<title>Introduction to Arrays in Java</title>
+<description>This tutorial covers creating, accessing, initializing, inserting, searching and deleting arrays and their elements in Java. Examples are given for each of these actions to aid the reader in getting a hands-on experience.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.geekpedia.com/tutorial271_Introduction-to-Arrays-in-Java.html&quot;&gt;Read This Java Tutorial&lt;/a&gt;</description>
+<link>http://www.geekpedia.com/tutorial271_Introduction-to-Arrays-in-Java.html</link>
+<guid>http://www.geekpedia.com/tutorial271_Introduction-to-Arrays-in-Java.html</guid>
+<pubDate>Sat, 01 Mar 2008 21:56:34 -0600</pubDate>
+</item>
+<item>
+<title>File Handling in Java</title>
+<description>A look at the file handling methods that Java provides, and an introduction to the complex I/O system that comes packaged in java.io.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.geekpedia.com/tutorial267_File-Handling-in-Java.html&quot;&gt;Read This Java Tutorial&lt;/a&gt;</description>
+<link>http://www.geekpedia.com/tutorial267_File-Handling-in-Java.html</link>
+<guid>http://www.geekpedia.com/tutorial267_File-Handling-in-Java.html</guid>
+<pubDate>Sat, 09 Feb 2008 19:35:13 -0600</pubDate>
+</item>
+<item>
+<title>Sort an Array of Strings in Reverse Order</title>
+<description>Learn how to sort an array efficiently using the sort() method and a custom Comparator in Java.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.geekpedia.com/tutorial266_Sort-an-Array-of-Strings-in-Reverse-Order.html&quot;&gt;Read This Java Tutorial&lt;/a&gt;</description>
+<link>http://www.geekpedia.com/tutorial266_Sort-an-Array-of-Strings-in-Reverse-Order.html</link>
+<guid>http://www.geekpedia.com/tutorial266_Sort-an-Array-of-Strings-in-Reverse-Order.html</guid>
+<pubDate>Sat, 02 Feb 2008 00:51:42 -0600</pubDate>
+</item>
+<item>
+<title>An Introduction to Semantics</title>
+<description>This article gives you an introduction to why semantics are important. It doesn&#039;t contain much code samples, but it does provide you with an insight in why standards and CSS are important on the modern web.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.geekpedia.com/tutorial245_An-Introduction-to-Semantics.html&quot;&gt;Read This HTML Tutorial&lt;/a&gt;</description>
+<link>http://www.geekpedia.com/tutorial245_An-Introduction-to-Semantics.html</link>
+<guid>http://www.geekpedia.com/tutorial245_An-Introduction-to-Semantics.html</guid>
+<pubDate>Fri, 14 Dec 2007 21:11:27 -0600</pubDate>
+</item>
+</channel>
+</rss>
